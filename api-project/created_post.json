@@ -1,0 +1,6 @@
+{
+  "userId": 1,
+  "title": "CSCI 409 API Project Post",
+  "body": "This is a test post created using a POST request with requests.",
+  "id": 101
+}

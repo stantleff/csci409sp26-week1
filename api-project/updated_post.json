@@ -1,0 +1,6 @@
+{
+  "id": 1,
+  "userId": 1,
+  "title": "Updated Title (PUT)",
+  "body": "Updating a post using PUT to satisfy the 3-method requirement."
+}
